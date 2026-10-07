@@ -1,2 +1,2 @@
 
-this is my project in html.
+This is my project in HTML.
